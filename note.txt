@@ -1,0 +1,11 @@
+//查看状态
+git status
+
+//添加
+git add *
+
+//
+git commit -m "修改内容注释"
+
+//
+git push
